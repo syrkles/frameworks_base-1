@@ -4984,6 +4984,14 @@ public final class Settings {
          */
         public static final String PULSE_APPS_BLACKLIST = "pulse_apps_blacklist";
 
+
+        /**
+         * Pulse accent color
+         *
+         * @hide
+         */
+        public static final String PULSE_ACCENT_COLOR_ENABLED = "pulse_accent_color_enabled";
+
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
