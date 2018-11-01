@@ -155,4 +155,5 @@ oneway interface IStatusBar
      * Bootleggers
      */
     void toggleCameraFlash();
+    void leftInLandscapeChanged(boolean isLeft);
 }
