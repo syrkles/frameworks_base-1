@@ -4966,6 +4966,12 @@ public final class Settings {
         public static final String PULSE_AUTO_COLOR = "pulse_auto_color";
 
         /**
+         * Apps to skip for Pulse
+         * @hide
+         */
+        public static final String PULSE_APPS_BLACKLIST = "pulse_apps_blacklist";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
